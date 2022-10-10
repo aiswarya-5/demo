@@ -6,3 +6,6 @@ new branch
 local
 
 new editsss
+
+fetch 
+mwerge
